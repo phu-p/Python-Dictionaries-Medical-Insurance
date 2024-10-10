@@ -30,4 +30,10 @@ This project involves using Python dictionaries to organize and update medical r
 - Create functions to update medical records.
 - Experiment with creating new dictionaries for different data sets.
 
+## Seting Up Instructions
+
+1. Clone the repository.
+2. Open the `Python Dictionaries Medical Insurance.ipynb` file.
+3. Follow the instructions to complete the tasks.
+
 
