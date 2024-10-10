@@ -20,13 +20,7 @@ This project involves using Python dictionaries to organize and update medical r
 - **Nested Dictionaries**: Store complex data structures within dictionaries.
 - **Data Access**: Retrieve specific data points from nested dictionaries.
 
-## Getting Started
-
-1. Clone the repository.
-2. Open the `Python Dictionaries Medical Insurance.ipynb` file.
-3. Follow the instructions to complete the tasks.
-
-## Requirements
+## Technologies Used
 
 - Python 3.x
 - Jupyter Notebook (optional for local execution)
@@ -35,3 +29,5 @@ This project involves using Python dictionaries to organize and update medical r
 
 - Create functions to update medical records.
 - Experiment with creating new dictionaries for different data sets.
+
+
